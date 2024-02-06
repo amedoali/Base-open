@@ -1,0 +1,19 @@
+*.so
+*.dylib
+*.dlllib +
+.vs/
+
+*.exe
+*.out
+*.app
+
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+build/
+
+.DS_Store
+
+Thumbs.db
+
+.idea/
